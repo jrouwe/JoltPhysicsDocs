@@ -7,6 +7,7 @@ Discussions can be started / issues can be logged in [the parent](https://github
 ## Available Versions
 
 - [latest (updates with every submit)](https://jrouwe.github.io/JoltPhysics/)
+- [5.3.0](https://jrouwe.github.io/JoltPhysicsDocs/5.3.0/)
 - [5.2.0](https://jrouwe.github.io/JoltPhysicsDocs/5.2.0/)
 - [5.1.0](https://jrouwe.github.io/JoltPhysicsDocs/5.1.0/)
 - [5.0.0](https://jrouwe.github.io/JoltPhysicsDocs/5.0.0/)
